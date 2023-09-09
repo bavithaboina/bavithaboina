@@ -1,4 +1,4 @@
-
+## About Me 
 👋 Hi, I'm Bavitha, a Data Analayst with 2 years of IT experience. I have expertise in Python, PostgreSQL, data manipulation, automation using Python scripting,  PowerBI and  Microsoft Excel. 
 
 👉 My enthusiasm for problem-solving and extracting insights has driven me to explore this world of data. 
