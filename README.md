@@ -15,7 +15,7 @@ Python, PostgreSQL, PowerBI, ML, NLP
 
 ## Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/boina-bavitha)]
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/boina-bavitha)
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?logo=LinkedIn&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/boina-bavitha/)
 
