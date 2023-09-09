@@ -10,7 +10,7 @@ Python, PostgreSQL, PowerBI, ML, NLP
 
 ## Links
 
-[![portfolio](https://img.shields.io/badge/work_portfolio-000)](https://sites.google.com/view/boina-bavitha)  
+[![portfolio](https://img.shields.io/badge/work_portfolio-000)](https://sites.google.com/view/boina-bavitha)
 [![linkedin](https://img.shields.io/badge/linkedin-000?logo=LinkedIn&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/boina-bavitha/)
 
 ![bavithaboina's Stats](https://github-readme-stats.vercel.app/api?username=bavithaboina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
